@@ -1,1 +1,1 @@
-# test
+<script> type = "text/JAVA" </script>
